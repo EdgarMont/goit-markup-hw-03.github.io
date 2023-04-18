@@ -70,6 +70,11 @@ section{
   margin-left: auto;
   margin-right: auto;
 }
+.content-portfolio{
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
 .capitalButton {
   display: grid;
   place-items: center;
